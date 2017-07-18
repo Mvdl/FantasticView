@@ -13,6 +13,7 @@
 		7BCAD9801F1E455400AC314E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BCAD97F1F1E455400AC314E /* Assets.xcassets */; };
 		7BCAD9831F1E455400AC314E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BCAD9811F1E455400AC314E /* LaunchScreen.storyboard */; };
 		7BCAD98B1F1E457900AC314E /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCAD98A1F1E457900AC314E /* FantasticView.swift */; };
+		7BCAD98D1F1E556300AC314E /* JustATest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCAD98C1F1E556300AC314E /* JustATest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7BCAD9821F1E455400AC314E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BCAD9841F1E455400AC314E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7BCAD98A1F1E457900AC314E /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
+		7BCAD98C1F1E556300AC314E /* JustATest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JustATest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7BCAD9781F1E455400AC314E /* AppDelegate.swift */,
 				7BCAD97A1F1E455400AC314E /* ViewController.swift */,
 				7BCAD98A1F1E457900AC314E /* FantasticView.swift */,
+				7BCAD98C1F1E556300AC314E /* JustATest.swift */,
 				7BCAD97C1F1E455400AC314E /* Main.storyboard */,
 				7BCAD97F1F1E455400AC314E /* Assets.xcassets */,
 				7BCAD9811F1E455400AC314E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BCAD97B1F1E455400AC314E /* ViewController.swift in Sources */,
+				7BCAD98D1F1E556300AC314E /* JustATest.swift in Sources */,
 				7BCAD9791F1E455400AC314E /* AppDelegate.swift in Sources */,
 				7BCAD98B1F1E457900AC314E /* FantasticView.swift in Sources */,
 			);
